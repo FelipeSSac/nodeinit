@@ -7,4 +7,4 @@ To install the dependences:
 To start dev mode:
 `DEBUG=web:* npm start`
 
-To see the deployed version online [click here](https://node-at-fss.herokuapp.com/)
+To see the deployed version of the project [click here](https://node-at-fss.herokuapp.com/)
