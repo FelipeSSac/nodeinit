@@ -1,10 +1,10 @@
 # nodeinit
-Pagina teste com Node, Bootstrap e Jquery
+Test page made with Node.js, Bootstrap e Jquery themering sides from the "Force" (Star Wars)
 
-Para instalar as dependências:
+To install the dependences:
 `npm i`
 
-Para iniciar em modo de desenvolvimento:
+To start dev mode:
 `DEBUG=web:* npm start`
 
-Para ver o projeto online [clique aqui](https://node-at-fss.herokuapp.com/)
+To see the deployed version online [click here](https://node-at-fss.herokuapp.com/)
